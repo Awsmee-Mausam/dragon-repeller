@@ -1,1 +1,22 @@
-# dragon-repeller
+# Dragon Repeller - A Role-Playing Game (RPG)
+
+Welcome to **Dragon Repeller**, a simple web-based RPG where you must defeat a dragon to save a town. Along the way, you can battle monsters, buy weapons, and improve your stats. The game is built using **HTML**, **CSS**, and **JavaScript**.
+
+## Game Features
+
+- **Fight Monsters**: Battle various enemies like slimes, fanged beasts, and the mighty dragon.
+- **Buy Weapons & Health**: Visit the store to upgrade your equipment and replenish health.
+- **Inventory System**: Manage and upgrade your inventory as you progress.
+- **Dynamic Choices**: Use buttons to make decisions such as going to the cave, attacking, dodging, or running from a fight.
+
+## Technologies Used
+
+- **HTML**: Markup structure for the game interface.
+- **CSS**: Styling for the game layout and components.
+- **JavaScript**: Core game mechanics and interactions, including fight logic, inventory management, and navigation.
+
+## How to Play
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Awsmee-Mausam/dragon-repeller.git
