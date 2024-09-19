@@ -21,8 +21,14 @@ Welcome to **Dragon Repeller**, a simple web-based RPG where you must defeat a d
    ```bash
    git clone https://github.com/Awsmee-Mausam/dragon-repeller.git
 
+2. Navigate to the project directory:
+   cd dragon-repeller
 
-Future Enhancements
+3. Open index.html in your preferred browser.
+
+
+**Future Enhancements**
+
 Some possible future improvements for the game include:
 
 - Adding more enemy types and increasing difficulty levels.
@@ -30,7 +36,8 @@ Some possible future improvements for the game include:
 - Expanding the storyline and quests for the player.
 - Implementing sound effects and music for a more immersive experience.
 
-License
+**License**
+
 This project is open-source and available under the MIT License.
 
 ### Steps to add this file to GitHub:
@@ -41,5 +48,5 @@ This project is open-source and available under the MIT License.
    git add README.md
    git commit -m "Add README file"
 
-Push the changes to GitHub:
-git push origin main
+3. Push the changes to GitHub:
+   git push origin main
